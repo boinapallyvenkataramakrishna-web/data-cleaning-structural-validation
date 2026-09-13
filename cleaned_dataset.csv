@@ -1,0 +1,16 @@
+customerid,gender,age,tenuremonths,subscriptiontype,monthlycharges,totalcharges,contracttype,supporttickets,paymentmethod,churn
+cust-1001,female,34,12,basic,49.99,599.88,month-to-month,3,credit card,yes
+cust-1002,male,45,24,pro,79.99,1919.76,one year,1,bank transfer,no
+cust-1003,female,29,6,basic,49.99,299.94,month-to-month,5,upi,yes
+cust-1004,male,52,36,enterprise,149.99,5399.64,two year,0,credit card,no
+cust-1005,female,41,8,pro,79.99,639.92,month-to-month,4,debit card,yes
+cust-1006,male,31,18,basic,49.99,899.82,one year,2,upi,no
+cust-1007,female,23,3,basic,49.99,149.97,month-to-month,6,credit card,yes
+cust-1008,male,60,48,enterprise,149.99,7199.52,two year,1,bank transfer,no
+cust-1009,female,38,15,pro,79.99,1199.85,one year,2,credit card,no
+cust-1010,male,27,4,basic,49.99,199.96,month-to-month,4,upi,yes
+cust-1011,female,49,30,enterprise,149.99,4499.7,two year,0,credit card,no
+cust-1012,male,33,14,pro,79.99,1119.86,month-to-month,3,debit card,yes
+cust-1013,female,55,22,basic,49.99,1099.78,one year,1,bank transfer,no
+cust-1014,male,26,2,basic,49.99,99.98,month-to-month,5,upi,yes
+cust-1015,female,43,40,enterprise,149.99,5999.6,two year,1,credit card,no
